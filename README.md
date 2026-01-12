@@ -42,6 +42,7 @@
 ![AutoCAD](https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white)
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chickundersea&theme=zenburn)
 <!--
 **chickundersea/chickundersea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
