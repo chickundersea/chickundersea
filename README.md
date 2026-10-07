@@ -1,6 +1,6 @@
 ## Hi I'm Chickundersea 👋
 
-- I'm a Solutions Development Engineer and a Graphic Designer 
+- I'm a Full-Stack Engineer and a Graphic Designer 
 - I'm also a Barista ☕
 
 - Currently learning :
